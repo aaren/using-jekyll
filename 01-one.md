@@ -29,21 +29,25 @@ Paragraphs of text
 --- possibly including [key word 1](reference.html#key-word-1) ---
 mixed with:
 
+~~~python
+code without a space after '~~~'
 ~~~
+
+~~~ python
 some code:
     to be displayed
 ~~~
-{: .python}
-~~~
+
+~~~ output
 output
 from
 program
 ~~~
-{: .output}
-~~~
+
+~~~ error
 error reports from program (if any)
 ~~~
-{: .error}
+
 
 and possibly including:
 
