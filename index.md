@@ -1,6 +1,9 @@
 ---
 layout: page
 ---
+
+Look! We can make changes to the content without leaving the browser. Github has built in editing of plain text files. The changes will be rendered without me having to add any html.
+
 Paragraph of introductory material.
 
 > ## Prerequisites
